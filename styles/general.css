@@ -1,0 +1,21 @@
+* {
+  padding:0;
+  margin:0;
+}
+
+body {
+  height: 2000px;
+}
+
+header {
+  background-color: #eee;
+  z-index: 10000;
+  position: fixed;
+  left:0;
+  right:0;  
+}
+.container {
+  width: 60%;
+  margin: 0 auto;
+  height: 100%;
+}
